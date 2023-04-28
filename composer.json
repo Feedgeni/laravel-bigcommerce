@@ -1,17 +1,17 @@
 {
-    "name": "kalley/laravel-bigcommerce",
+    "name": "feedgeni/laravel-bigcommerce",
     "description": "Laravel package for Big Commerce PHP API",
     "keywords": ["laravel","illuminate","bigcommerce"],
     "license": "MIT",
     "authors": [
         {
-            "name": "kalley",
-            "email": "kalley.powell@gmail.com"
+            "name": "FeedGeni",
+            "email": "support@feedgeni.com"
         }
     ],
     "require": {
-        "php": ">=5.4.0",
-        "illuminate/support": "4.2.*",
+        "php": ">=7.4.0",
+        "illuminate/support": "6.*",
         "bigcommerce/api": "dev-master"
     },
     "autoload": {
